@@ -1,2 +1,0 @@
-# RedMind
-MindMap
